@@ -1,7 +1,7 @@
 # Game Review for Borderlands 3
 
 ## Details
-
+Bordelands 3 is a is an action role-playing first person shooter developed by Gearbox and published by 2K Games.
 ### Game Title
 
 The name of the game, subtitle, and the URL or information on how to find
